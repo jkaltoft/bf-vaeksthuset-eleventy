@@ -1,1 +1,1 @@
-# bf-vaeksethuset-static
+# bf-vaeksthuset-static
