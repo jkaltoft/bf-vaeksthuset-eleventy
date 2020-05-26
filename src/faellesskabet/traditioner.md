@@ -3,10 +3,9 @@ layout: page.liquid
 title: Traditioner i Bofællesskabet Væksthuset
 ---
 
-<p>
-  Der er efterhånden en del festlige traditioner i Væksthuset. Her kan bl.a.
-  nævnes:
-</p>
+Der er efterhånden en del festlige traditioner i Væksthuset. Her kan bl.a.
+nævnes:
+
 <dl>
   <dt>Fastelavn</dt>
   <dd>

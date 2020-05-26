@@ -3,8 +3,10 @@ layout: page.liquid
 title: Beboere i Bofællesskabet Væksthuset
 ---
 
-<p>I øjeblikket er beboersammensætningen i Bofællesskabet Væksthuset således:</p>
-<h2>20 børn og unge</h2>
+I øjeblikket er beboersammensætningen i Bofællesskabet Væksthuset således:
+
+## 20 børn og unge
+
 <table cellspacing="0" cellpadding="0" border="0">
   <tbody>
     <tr>
@@ -32,10 +34,14 @@ title: Beboere i Bofællesskabet Væksthuset
     </tr>
   </tbody>
 </table>
-<h2>24 voksne</h2>
-<p>Der er 8 huse med én voksen og 8 huse med to voksne.<br>
-  <strong>I alt 15 kvinder og 9 mænd</strong><br>
-</p>
-<p>Der er 12 huse med hjemmeboende børn og 4 uden.</p>
-<p>Der er beboere fra mange forskellige erhverv, her er f.eks. lærere, it-folk, pædagoger og socialrådgivere.</p>
-<p>Aldersmæssigt er der mange voksne i 30'erne, men spredningen går fra omkring 30 år til godt og vel 70 år.</p>
+
+## 24 voksne
+
+Der er 8 huse med én voksen og 8 huse med to voksne.<br>
+**I alt 15 kvinder og 9 mænd**<br>
+
+Der er 12 huse med hjemmeboende børn og 4 uden.
+
+Der er beboere fra mange forskellige erhverv, her er f.eks. lærere, it-folk, pædagoger og socialrådgivere.
+
+Aldersmæssigt er der mange voksne i 30'erne, men spredningen går fra omkring 30 år til godt og vel 70 år.
