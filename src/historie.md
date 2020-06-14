@@ -1,12 +1,18 @@
 ---
 layout: page.liquid
 title: Bofællesskabet Væksthusets historie
+date: 2009-08-01
 ---
 
 <footer>
   <address>
     Af <cite>Anne Marie og Johan Fjord Jensen</cite>
     <time>1992</time>, revideret i august 2009
+    <p>
+      <small>Senest opdateret <time published="{{page.date}}">
+        {{page.date}}
+      </time></small>
+    </p>
   </address>
 </footer>
 
